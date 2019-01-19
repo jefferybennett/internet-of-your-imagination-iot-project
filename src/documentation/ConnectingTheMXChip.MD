@@ -1,16 +1,16 @@
 # Connecting the MXChip Board
 
 - [Connecting the MXChip Board](#connecting-the-mxchip-board)
-    - [Before you Begin](#before-you-begin)
-    - [Add a real device to your App](#add-a-real-device-to-your-app)
-    - [Prepare the MXChip device](#prepare-the-mxchip-device)
-    - [View the telemetry](#view-the-telemetry)
+  - [Before you Begin](#before-you-begin)
+  - [Add a real device to your App](#add-a-real-device-to-your-app)
+  - [Prepare the MXChip device](#prepare-the-mxchip-device)
+  - [View the telemetry](#view-the-telemetry)
 
 ## Before you Begin
 
 To complete the steps in this article, you need the following:
 
-- An Azure IoT Central application created from the Sample Devkits application template. Click [here](CreateYourFirstIoTCentralApp.MD) if you haven't already created your App.
+- An Azure IoT Central application created from the Sample Devkits application template. Click [here](/src/documentation/CreateYourFirstIoTCentralApp.MD) if you haven't already created your App.
 - A MXChip device.
 
 > Note:
