@@ -44,7 +44,7 @@ The Application Manager enables you to both create new IoT Central Apps and to a
 - [ ] Select the closest Azure region to you.
 - [ ] When you're finished and believe your entries are correct, click the Create button to finalize the app creation.
 
-![alt-text](src/images/IC-NewApplication.png)
+![alt-text](/src/images/IC-NewApplication.png)
 
 After your App is created, you'll be immediately logged into it.
 

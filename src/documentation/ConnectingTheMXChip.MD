@@ -27,14 +27,14 @@ In your Azure IoT Central App, add a "real" device from the **MXChip** device te
 > 
 > A real device is a physical device which will be connected to IoT Central.
 
-![alt-text](src/images/IC-CreateRealDevice.png)
+![alt-text](/src/images/IC-CreateRealDevice.png)
 
 - [ ] Add a **real device** in Azure IoT Central.
     - [ ] If you're at your IoT Central Home Page, click "View All Devices".
     - [ ] If you're on the Device Explorer, click on **+New > Real** to add a real device.
     - [ ] Enter the Device Id (should be lower case) or use the suggested Device Id.
     - [ ] Enter the Device Name or use the suggested name.
-    ![alt-text](src/images/add-device.png)
+    ![alt-text](/src/images/add-device.png)
     - [ ] Get connection details such as Scope ID, Device ID, and Primary key for the added device by clicking **Connect** on the device page.
     - [ ] Make sure to save these details, as you will temporarily get disconnected from the internet as you prepare the DevKit device.
 
@@ -65,7 +65,7 @@ PIN CODE xxxxx
 - [ ] On your computer, phone, or tablet connect to the WiFi network name shown on the screen of the device. When you connect to this network, you do not have internet access. This state is expected, and you are only connected to this network for a short time while you configure the device.
 
 - [ ] Open your web browser and navigate to [http://192.168.0.1/start](http://192.168.0.1/start). The following web page displays:
-    ![alt-text](src/images/mxchip-configpage.png)
+    ![alt-text](/src/images/mxchip-configpage.png)
 
 - [ ] In the web page:
     - [ ] Add the name of your WiFi network
@@ -75,7 +75,7 @@ PIN CODE xxxxx
     - [ ] Select all the available telemetry measurements.
 
 - [ ] After you choose **Configure Device**, you'll see this page:
-    ![alt-text](src/images/mxchip-deviceconfigured.png)
+    ![alt-text](/src/images/mxchip-deviceconfigured.png)
 
 - [ ] Press the **Reset** button on your device.
 
@@ -95,16 +95,16 @@ Shake the device increment the number of reported properties sent. The device se
 You can view the telemetry measurements and reported property values, and configure settings in Azure IoT Central:
 
 - [ ] Use Device Explorer to navigate to the Measurements page for the real MXChip device you added:
-    ![alt-text](src/images/mxchip-realdevicenew.png)
+    ![alt-text](/src/images/mxchip-realdevicenew.png)
 
 - [ ] On the **Measurements** page, you can see the telemetry coming from the MXChip device:
-    ![alt-text](src/images/ic-devicetelemetrynew.png)
+    ![alt-text](/src/images/ic-devicetelemetrynew.png)
 
 - [ ] On the **Properties** page, you can view the last die number and the device location reported by the device:
-    ![alt-text](src/images/ic-devicepropertynew.png)
+    ![alt-text](/src/images/ic-devicepropertynew.png)
 
 - [ ] On the **Settings** page, you can update the settings on the MXChip device:
-    ![alt-text](src/images/ic-devicesettingsnew.png)
+    ![alt-text](/src/images/ic-devicesettingsnew.png)
 
 - [ ] On the **Dashboard** page, you can see the location map:
-    ![alt-text](src/images/ic-devicedashboardnew.png)
+    ![alt-text](/src/images/ic-devicedashboardnew.png)
