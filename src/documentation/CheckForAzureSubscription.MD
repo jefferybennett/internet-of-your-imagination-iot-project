@@ -1,6 +1,7 @@
 ## Determine whether you have an existing Azure Subscription
 
-Every service that runs in Microsoft Azure has to be associated to an active subscription for billing purposes.
+Every service that runs in Microsoft Azure has to be associated to an active subscription for billing purposes.  Microsoft Azure IoT Central
+is free for up to 5 devices, but each "App" must still be associated to an active Azure subscription.
 
 ### If you work for a company which already uses Microsoft Azure
 
@@ -21,4 +22,4 @@ These steps are only for full-time corporate Microsoft employees.
 - [ ]  In the Search field, at the top of the screen, type "Subscriptions".
     -  A results pane will display, click "Subscriptions" under the grouping "Services".
 - [ ]  Check to see if you have a subscription titled "Microsoft Azure Internal Consumption".
-    -  If you don't, you'll need to request one.
+    -  If you don't, you'll need to request one.  You can follow these [Fast Start](https://microsoft.sharepoint.com/teams/AIRS/BLOG/Pages/Fast%20Start.aspx) instructions to leverage the Azure Internal Registration System (AIRS) to request an internal billing account.
