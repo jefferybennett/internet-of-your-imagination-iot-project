@@ -1,4 +1,4 @@
-#Configuring Azure IoT Central
+# Configuring Azure IoT Central
 
 Assuming you've followed the instructions up to this point and have connected your MXChip device, you now having a working device set-up in Azure IoT Central which is sending you data.  If you want - you're done!  But of course, where's the fun in that?
 
@@ -34,3 +34,23 @@ The simplest action is sending an e-Mail, which IoT Central can do for you out-o
 
 Click [here](https://docs.microsoft.com/en-us/azure/iot-central/howto-add-microsoft-flow) for further documentation on how to integrate an IoT Central rule/action with Microsoft Flow.
 
+### Export your Data into other services in Microsoft Azure
+
+If you're so inclined and *really* want to get your hands dirty, you can currently export your data in IoT Central to three different services in Micrsoft Azure ...
+
++ **Blob Storage**
+  + This is essentially just placing in a file of sorts in a service known as Azure Storage.  Click [here](https://docs.microsoft.com/en-us/azure/iot-central/howto-export-data-blob-storage) for more information.
++ **Event Hub**
+  + Event Hub is a service in Microsoft Azure which is able to ingest streaming data (and a lot of it).  Once this data is in Event Hub, there are other services in Microsoft Azure (eg. Streaming Analytics) which can do all sorts of useful things with it.  Click [here](https://docs.microsoft.com/en-us/azure/iot-central/howto-export-data-event-hubs-service-bus) for more information.
++ **Service Bus**
+  + Azure Service Bus in a core integration service in Microsoft Azure which allows "publishers" of data to publish data at integration point and for "subscribers" to consume that data they're interested in.  Click [here](https://docs.microsoft.com/en-us/azure/iot-central/howto-export-data-event-hubs-service-bus) for more information.
+
+### Visualize your data in Microsoft Power BI
+
+Microsoft Power BI is an incredible Business Intelligence Visualization and Analysis tool which is part of Microsoft Office 365.  It's fantastic and I've met few people or companies that don't become pretty anamored with it after spending some time with it.
+
+Microsoft has released a solution template for exporting your data from IoT Central to Power BI.  The instructions for it can be found [here](https://docs.microsoft.com/en-us/azure/iot-central/howto-connect-powerbi).  The Power BI dashboards from this template looks like this:
+
+![alt-text](/src/images/template-page1-hasdata.png)
+
+![alt-text](/src/images/template-page2-hasdata.png)
