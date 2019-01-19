@@ -13,7 +13,7 @@
 
 ## Overview
 
-There's just something about "getting hands on".  For humans and learning, there's simply nothing better.  No book, no video, no blog post can improve upon direct empirical experience.
+There's just something about "getting hands on".  When it comes to how best we human beings learn, there's simply nothing better.  No book, no video, no blog post can improve upon direct empirical experience.
 
 The Internet of Your Imagination IoT Project is an unique effort targeted at non-developers (eg., executives, managers, sales people) to have a relatively quick, hands-on, no-code-required IoT experience that provides the participant the following:
 
@@ -33,13 +33,11 @@ The Internet of Your Imagination IoT Project is an unique effort targeted at non
 - [ ] A basic idea of what use case you'd like to pursue.
     - Don't worry, we'll help you do this in the first section. 
 - [ ] An [MXCHIP IoT DevKit Board](http://mxchip.com/az3166).
-    - Many of these boards have been given out over the last year, so check if you threw one in your bag and forgot about it.
-    - If you don't have one, e-Mail [me](mailto:jbennett@microsoft.com) 1) your shipping address, and 2) whether you'd like 1 or 2, and we'll ship it to you.
+    - If you don't already have a MXChip IoT Devkit, you can purchase one from one of the on-line stores linked [here](http://mxchip.com/az3166).  They're also typically available on Amazon as well - just search for "MXChip".
 - [ ] A USB 2.0 to Micro B Male cable.
     - This should come in the box for the MXChip board, but double-check.
-- [ ] Install [Visual Studio Code](https://code.visualstudio.com/).
 - [ ] An active Microsoft Azure Subscription.
-    - If you're unsure whether you do, follow these [steps](CheckForAzureSubscription.MD) to determine this.
+    - If you're unsure whether you do, follow these [steps](/src/documentation/CheckForAzureSubscription.MD) to determine this.
     - If you don't, follow these [Fast Start](https://microsoft.sharepoint.com/teams/AIRS/BLOG/Pages/Fast%20Start.aspx) instructions to leverage the Azure Internal Registration System (AIRS) to request an internal billing account.
     > NOTE:
     >
