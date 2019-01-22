@@ -22,4 +22,4 @@ These steps are only for full-time corporate Microsoft employees.
 - [ ]  In the Search field, at the top of the screen, type "Subscriptions".
     -  A results pane will display, click "Subscriptions" under the grouping "Services".
 - [ ]  Check to see if you have a subscription titled "Microsoft Azure Internal Consumption".
-    -  If you don't, you'll need to request one.  You can follow these [Fast Start](https://microsoft.sharepoint.com/teams/AIRS/BLOG/Pages/Fast%20Start.aspx) instructions to leverage the Azure Internal Registration System (AIRS) to request an internal billing account.
+    -  If you don't, you'll need to request one.  You can follow these [here](https://microsoft.sharepoint.com/teams/AzAccess/AzInternal/Pages/default.aspx) instructions to leverage the Azure Internal Registration System (AIRS) to request an internal billing account.
